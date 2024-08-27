@@ -1,4 +1,5 @@
-## Hi there 👋
+## 自我介绍
+大家好，我是bridge，目前专业是计算机科学与技术，爱好有音乐，游戏，在这会分享有关软件工程的相关知识，希望大家多多支持
 
 <!--
 **ez4bridge/ez4bridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

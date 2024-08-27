@@ -1,6 +1,10 @@
 ## 自我介绍
 大家好，我是bridge，目前专业是计算机科学与技术，爱好有音乐，游戏，在这会分享有关软件工程的相关知识，希望大家多多支持
+## 个人情况
+-我是广东工业大学22级计算机科学与技术1班的学生
 
+## 兴趣爱好
+-喜欢音乐、旅游、游戏
 <!--
 **ez4bridge/ez4bridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

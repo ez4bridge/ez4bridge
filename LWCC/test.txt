@@ -1,9 +1,0 @@
-
-读入路径无效:  
-"E:/java/LWCC/orig_0.8_add.txt" 的重复率: 99.58%
-"E:/java/LWCC/orig_0.8_dis_10.txt" 的重复率: 95.50%
-"E:/java/LWCC/orig_0.8_dis_15.txt" 的重复率: 92.92%
-文件不存在: E:/java/LWCC/faker.txt
-"E:/java/LWCC/orig_0.8_dis_1.txt" 的重复率: 96.57%
-"E:/java/LWCC/orig_0.8_del.txt" 的重复率: 95.47%
-"E:/java/LWCC/orig.txt" 的重复率: 100.00%

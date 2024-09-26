@@ -27,12 +27,12 @@ public class AnswerChecker {
 
         //写入
         BufferedWriter writer = new BufferedWriter(new FileWriter("Grade.txt"));
-        writer.write("正确: " + correctCount + " " + correctIndices.toString());
+        writer.write("Correct: " + correctCount + " " + correctIndices.toString());
         writer.newLine();
-        writer.write("错误: " + wrongCount + " " + wrongIndices.toString());
+        writer.write("Wrong: " + wrongCount + " " + wrongIndices.toString());
         writer.close();
 
-        System.out.println("Grading complete. Check Grade.txt for details.");
+        System.out.println("结果已输出到Grade.txt");
     }
 }
 

@@ -3,10 +3,9 @@ package main;
 import java.util.*;
 
 public class Myapp {
-
     public static void main(String[] args) {
         try {
-            Map<String, String> command = cmdController.cmdControll(args);
+            Map<String, String> command = cmdController.cmdControl(args);
 
             if (command.containsKey("-n") && command.containsKey("-r")) {
                 // 生成题目
@@ -39,8 +38,8 @@ public class Myapp {
 
     private static void printHelp() {
         System.out.println("用法:");
-        System.out.println("生成问题: MyApp -n <题目数目> -r <范围>");
-        System.out.println("检查答案: MyApp -e <exercise_file> -a <answer_file>");
+        System.out.println("生成问题: java -jar MyApp.jar -n <题目数目> -r <范围>");
+        System.out.println("检查答案: java -jar MyApp.jar -e <exercise_file> -a <answer_file>");
     }
 }
 

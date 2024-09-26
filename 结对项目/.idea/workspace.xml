@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Myapp" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -10,7 +15,26 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3540fc9a-3a92-4fe3-8afa-fecf03eb19fb" name="更改" comment="" />
+    <list default="true" id="3540fc9a-3a92-4fe3-8afa-fecf03eb19fb" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/ez4bridge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/src/main/AnswerChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/src/main/AnswerChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/src/main/JDXMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/src/main/JDXMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/src/main/Myapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/src/main/Myapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/src/main/createQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/src/main/createQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/src/main/fileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/src/main/fileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/AnswerChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/AnswerChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/JDXMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/JDXMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/Myapp.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/Myapp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/cmdController.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/cmdController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/createQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/createQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDXM/target/classes/main/fileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDXM/target/classes/main/fileUtil.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +77,29 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.JDXMTest.testCalculateAnswerWithBracket1.executor": "Run",
+    "JUnit.JDXMTest.testCalculateAnswerWithBracket2.executor": "Run",
+    "JUnit.JDXMTest.testCalculateAnswerWithBrackets.executor": "Debug",
+    "JUnit.JDXMTest.testCalculateAnswerWithNoBracket.executor": "Run",
+    "JUnit.JDXMTest.testCheckAnswers.executor": "Run",
+    "JUnit.JDXMTest.testCreateQuestion.executor": "Run",
+    "JUnit.JDXMTest.testMain.executor": "JProfiler",
+    "JUnit.JDXMTest.testParseEmptyArguments.executor": "Run",
+    "JUnit.JDXMTest.testValidAnswers.executor": "Run",
+    "JUnit.JDXMTest.testWrongAnswers.executor": "Run",
     "JUnit.JDXMTest.testcmdController.executor": "Run",
+    "JUnit.JDXMTest.testcreateQuestion.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/java/github/ez4bridge",
+    "last_opened_file_path": "E:/java/github/ez4bridge/结对项目",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
+    "project.structure.last.edited": "全局库",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
@@ -77,21 +112,8 @@
       <recent name="E:\java\github\ez4bridge\结对项目" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JDXMTest.testcmdController">
-    <configuration name="Myapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Myapp" />
-      <module name="your-project-name" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDXMTest.testcmdController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JDXMTest.testMain">
+    <configuration name="JDXMTest.testCalculateAnswerWithBracket2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="your-project-name" />
       <extension name="coverage">
         <pattern>
@@ -101,7 +123,71 @@
       </extension>
       <option name="PACKAGE_NAME" value="main" />
       <option name="MAIN_CLASS_NAME" value="main.JDXMTest" />
-      <option name="METHOD_NAME" value="testcmdController" />
+      <option name="METHOD_NAME" value="testCalculateAnswerWithBracket2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDXMTest.testCalculateAnswerWithNoBracket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="your-project-name" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.JDXMTest" />
+      <option name="METHOD_NAME" value="testCalculateAnswerWithNoBracket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDXMTest.testCreateQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="your-project-name" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.JDXMTest" />
+      <option name="METHOD_NAME" value="testCreateQuestion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDXMTest.testGoodAnswers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="your-project-name" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.JDXMTest" />
+      <option name="METHOD_NAME" value="testGoodAnswers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDXMTest.testMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="your-project-name" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.JDXMTest" />
+      <option name="METHOD_NAME" value="testMain" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,8 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JDXMTest.testcmdController" />
-        <item itemvalue="应用程序.Myapp" />
+        <item itemvalue="JUnit.JDXMTest.testMain" />
+        <item itemvalue="JUnit.JDXMTest.testCreateQuestion" />
+        <item itemvalue="JUnit.JDXMTest.testCalculateAnswerWithBracket2" />
+        <item itemvalue="JUnit.JDXMTest.testGoodAnswers" />
+        <item itemvalue="JUnit.JDXMTest.testCalculateAnswerWithNoBracket" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +222,13 @@
       <workItem from="1726828786782" duration="3503000" />
       <workItem from="1726892129501" duration="721000" />
       <workItem from="1726894726881" duration="818000" />
-      <workItem from="1726895558236" duration="12986000" />
+      <workItem from="1726895558236" duration="18712000" />
+      <workItem from="1727005299963" duration="13570000" />
+      <workItem from="1727165681487" duration="16861000" />
+      <workItem from="1727188508375" duration="301000" />
+      <workItem from="1727188841804" duration="3081000" />
+      <workItem from="1727253915792" duration="1274000" />
+      <workItem from="1727337060171" duration="4856000" />
     </task>
     <servers />
   </component>
@@ -143,19 +238,9 @@
   <component name="UnloadedModulesList">
     <module name="JDXM" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/JDXM/src/main/JDXMTest.java</url>
-          <line>10</line>
-          <properties class="main.JDXMTest" method="testcmdController">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$JDXMTest_testMain.ic" NAME="JDXMTest.testMain 覆盖结果" MODIFIED="1727337455089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>main.*</FILTER>
+    </SUITE>
   </component>
 </project>

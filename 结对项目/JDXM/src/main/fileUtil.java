@@ -9,9 +9,11 @@ public class fileUtil {
     //写文件
     public static void writeToFile(String fileName, List<String> content) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+        int lineNum = 1;
         for (String line : content) {
-            writer.write(line);
+            writer.write(lineNum + ". " + line);
             writer.newLine();
+            lineNum++;
         }
         writer.close();
     }
